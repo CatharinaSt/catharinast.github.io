@@ -1,6 +1,7 @@
 .image-link{
 	position: fixed;
-	left: 10px;
+    z-index: 1;
+    left: 30px
 }
 
 #main-peragraf{
