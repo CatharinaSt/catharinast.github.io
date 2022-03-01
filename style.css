@@ -1,8 +1,12 @@
-.main-peragraf{
-	font-family: Helvetica, sans-serif;
+.main-peragraf {
+	font-family: sans-serif;
 	left:  0px;
 	width: 70%;
 	padding: 2%;
 }
 
 
+.image-linkn {
+	position: fixed;
+	
+}
