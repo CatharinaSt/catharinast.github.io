@@ -1,11 +1,13 @@
+
 .main-peragraf {
     font-family: "Roboto", monospace;
+	background-color: #000000;
+
 }
 
 
-.image-linkn {
-	position: fixed;
-	left: 0px;
-	width: 70%;
-	padding: 2%;
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
