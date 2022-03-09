@@ -31,10 +31,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.image-link) {
-  background-color: #6EB5FF;
-}
-
 .image-link {
-  background-color: #85E3FF;
+  background-color: #AFCBFF;
 }
