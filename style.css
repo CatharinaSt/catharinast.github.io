@@ -34,3 +34,15 @@ li a {
 .image-link {
   background-color: #AFCBFF;
 }
+
+body {
+  background-color: lightblue;
+}
+
+.resepy-links {
+font-family: Sans-serif;
+    width: 350px;
+    border: 2px;
+    padding: 2px;
+    margin: 2px;
+}
