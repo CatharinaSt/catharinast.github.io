@@ -39,10 +39,17 @@ body {
   background-color: lightblue;
 }
 
+.container {
+  width: 500px;
+  border: 5px solid rgb(0);
+  border-radius: .5em;
+  padding: 10px;
+}
+
 .resepy-links {
 font-family: Sans-serif;
-    width: 350px;
-    border: 2px;
-    padding: 2px;
-    margin: 2px;
+  width: 160px;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: middle
 }
